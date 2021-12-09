@@ -1,0 +1,61 @@
+body {
+  margin-top: 100px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:no-repeat linear-gradient(blue,pink)
+}
+.buttons{
+  margin-left: 30%;
+}
+.osobenna{
+
+  background-color: chartreuse;
+  border: none;
+  height: 60px;
+  width: 100px;
+  cursor: pointer;
+  margin-left:10px;
+  margin-top: 100px;
+  display: inline-flexbox;
+}
+.but{
+  margin-bottom: 20px;
+  background-color: chartreuse;
+  border: none;
+  height: 60px;
+  width: 100px;
+  cursor: pointer;
+  margin-left:10px;
+  margin-top: 100px;
+  display: inline-flexbox;
+}
+#mins{
+  padding: 20px;
+}
+#idd{
+  padding:20px;
+}
+#hours{
+  padding: 20px;
+}
+.timer{
+  margin-top: 550px;
+  text-align: center;
+  margin-left: 41.5%;
+  color: blue;
+  background-color: blanchedalmond;
+  display: inline-flex;
+  margin-top: auto;
+}
+.sd{
+
+  background-color: blue;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
